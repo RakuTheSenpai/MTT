@@ -25,8 +25,14 @@
 *.la
 *.a
 *.lib
+build/
 
 # Executables
 *.exe
 *.out
 *.app
+
+# CMake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
